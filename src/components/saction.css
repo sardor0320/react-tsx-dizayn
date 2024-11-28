@@ -1,0 +1,33 @@
+.section--main {
+     display: flex;
+     justify-content: center;
+     margin-top: 100px;
+ }
+ 
+ .section--img {
+     transform: translateY(-40px);
+ }
+ 
+ .section--paragrph {
+     font-size: 50px;
+ }
+ 
+ .section--all--marketing {
+     font-size: 40px;
+     margin-left: 80px;
+     margin-top: -97px;
+ }
+ 
+ .paragriph--optimizedreach {
+     font-size: 30px;
+     transform: translateY(-20px);
+ }
+ 
+ .paragrph--itsall {
+     word-spacing: 10px;
+ }
+ 
+ .section--footer {
+     margin-top: 200px;
+ }
+ 

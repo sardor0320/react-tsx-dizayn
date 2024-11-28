@@ -1,0 +1,53 @@
+/* Main tarkib kodi */
+.hero-content h1 {
+     font-size: 3.5rem;
+     line-height: 1.2;
+     margin-bottom: 20px;
+ }
+ 
+ .hero-content .highlight {
+     color: #7b61ff;
+ }
+ 
+ .hero-content p {
+     font-size: 1.2rem;
+     margin-bottom: 30px;
+     color: white;
+ }
+ 
+ .cta-button {
+     padding: 12px 30px;
+     background: linear-gradient(90deg, #7b61ff, #00c6ff);
+     border: none;
+     border-radius: 10px;
+     color: #fff;
+     font-size: 1rem;
+     cursor: pointer;
+     transition: all 0.3s ease;
+     width: 200px;
+     height: 50px;
+ }
+ 
+ .cta-button:hover {
+     box-shadow: 0 4px 15px rgba(0, 255, 255, 0.5);
+ }
+ 
+ .small-hover-button {
+     padding: 10px 20px;
+     font-size: 16px;
+     color: white;
+     background-color: #6200ea;
+     border: none;
+     border-radius: 20px;
+     cursor: pointer;
+     transition: background-color 0.3s, transform 0.3s;
+     width: 150px;
+     height: 60px;
+     margin-left: 40px;
+ }
+ 
+ .small-hover-button:hover {
+     background-color: #3700b3;
+     transform: scale(1.1);
+ }
+ 
